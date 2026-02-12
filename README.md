@@ -30,10 +30,10 @@ Actualmente trabajo diseñando soluciones digitales, automatización de flujos a
 ## 🛠️ Tecnologías y herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,java,spring,postgresql,mysql,php,python,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,java,spring,postgresql,mysql,python,git,github" />
 </p>
 
-- SQL / PostgreSQL
+- SQL / PostgreSQL / OracleSQL / MongoDb
 - Airtable & StackerHQ
 - Spring Boot
 - React
@@ -43,9 +43,6 @@ Actualmente trabajo diseñando soluciones digitales, automatización de flujos a
 ---
 
 ## ⭐ Proyectos Destacados
-
-🔹 **tienda-italo**  
-Plataforma e-commerce basada en microservicios usando Spring Boot.
 
 🔹 **VentasBroncaReact.js**  
 Frontend React para gestión de ventas.
